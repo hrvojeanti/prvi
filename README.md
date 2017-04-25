@@ -1,3 +1,3 @@
 # Prvi projekt na GitHubu
 
-Opis našeg projekta
+Opis našeg projekta.. feature grana
